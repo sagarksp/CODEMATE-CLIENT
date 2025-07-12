@@ -30,7 +30,7 @@ export default function Login() {
     <div className="min-h-screen  flex items-center justify-center p-4 ">
       <div className="bg-white dark:bg-base-100 shadow-2xl rounded-2xl w-full max-w-md p-8">
         <h2 className="text-3xl font-bold text-center text-gray-800 dark:text-white mb-6">
-          Welcome Back 👋
+          Welcome Back 
         </h2>
 
         <form className="space-y-5">
