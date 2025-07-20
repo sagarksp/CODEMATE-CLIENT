@@ -3,7 +3,7 @@ import NavBar from "./components/NavBar";
 import Body from "./components/Body";
 import Login from "./components/login";
 import { Provider } from "react-redux";
-import appStore from "./utils/appStore"
+import appStore from "../src/utils/appStore"
 
 function App() {
   return (
